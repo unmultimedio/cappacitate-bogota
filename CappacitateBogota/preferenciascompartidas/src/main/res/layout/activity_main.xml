@@ -43,7 +43,8 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:hint="@string/hint_int"
-                android:layout_weight="1"/>
+                android:layout_weight="1"
+                android:numeric="integer|signed|decimal" />
             <Button
                 android:onClick="saveData"
                 android:id="@+id/save_int"
