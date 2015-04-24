@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+        <item name="colorPrimary">@color/verde_ean</item>
+
+    </style>
+
+    <style name="RedActionBar" parent="AppTheme">
+
+        <item name="colorPrimary">@color/rojo_cappacitate</item>
+    </style>
+
+</resources>
