@@ -10,6 +10,8 @@
     <string name="hint_text_box">Ingresa un super-héroe</string>
     <string name="button_text">Reclutar</string>
 
-
+    <string name="item1_text">Editar</string>
+    <string name="item2_text">Eliminar</string>
+    <string name="item3_text">Llamar!</string>
 
 </resources>
