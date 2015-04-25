@@ -1,1 +1,1 @@
-include ':app', ':preferenciascompartidas'
+include ':app', ':preferenciascompartidas', ':fragmentoslistas'
